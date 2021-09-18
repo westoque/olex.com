@@ -12,7 +12,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'westoque',
-  projectName: 'olex',
+  projectName: 'olex.com',
 
   presets: [
     [
