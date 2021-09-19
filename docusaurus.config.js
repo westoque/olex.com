@@ -59,9 +59,6 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             label: 'GitHub',
             position: 'right',
           },
-          {
-            type: 'docsVersionDropdown',
-          },
         ],
       },
       footer: {
